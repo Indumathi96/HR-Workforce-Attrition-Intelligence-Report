@@ -36,7 +36,7 @@ Employee attrition is not random — it is predictable, measurable, and preventa
 ## 📋 Report Structure
 
 ### Page 1 — Workforce Attrition Summary
-![Workforce Attrition Summary](screenshots/01_workforce_attrition_summary.png)
+![Workforce Attrition Summary](Screenshots/01_workforce_attrition_summary.png)
 
 **Organizational-level attrition decomposition across all major workforce dimensions.**
 
@@ -60,7 +60,7 @@ Employee attrition is not random — it is predictable, measurable, and preventa
 ---
 
 ### Page 2 — Attrition Drivers & Behavioral Analysis
-![Attrition Driver Analysis](screenshots/02_attrition_driver_analysis.png)
+![Attrition Driver Analysis](Screenshots/02_attrition_driver_analysis.png)
 
 **Behavioral, attitudinal, and structural factors correlated with attrition — isolating the levers that matter most.**
 
@@ -75,7 +75,7 @@ Employee attrition is not random — it is predictable, measurable, and preventa
 ---
 
 ### Page 3 — Workforce Risk Segmentation & Retention Exposure
-![Attrition Risk Intelligence](screenshots/03_attrition_risk_intelligence.png)
+![Attrition Risk Intelligence](Screenshots/03_attrition_risk_intelligence.png)
 
 **A composite risk-scoring model classifying the active workforce into Low, Medium, and High risk tiers based on multi-factor attrition signals.**
 
@@ -97,7 +97,7 @@ Employee attrition is not random — it is predictable, measurable, and preventa
 ---
 
 ### Page 4 — Predictive Attrition Intelligence & Future Workforce Risk
-![Future Attrition Prediction](screenshots/04_future_attrition_prediction.png)
+![Future Attrition Prediction](Screenshots/04_future_attrition_prediction.png)
 
 **Forward-looking exposure analysis of the current active workforce — quantifying future vulnerability by department, role, tenure, and cost.**
 
