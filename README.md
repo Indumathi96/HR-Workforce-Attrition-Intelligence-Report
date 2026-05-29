@@ -167,21 +167,6 @@ HR-Workforce-Attrition-Intelligence-Report/
 │
 └── README.md
 ```
-
----
-
-## 👤 About This Project
-
-**Project #3 — Data Analytics Portfolio**
-
-Built end-to-end using **Microsoft Excel and Power BI exclusively** — demonstrating that rigorous analytical thinking, structured feature engineering, and executive-level storytelling do not require complex tooling. Every metric, segment, and insight in this report was derived from first principles applied directly to the raw data.
-
----
-
-*⭐ If this project resonates with your work or hiring needs, feel free to connect.*
-
----
-
 ## 👩‍💻 Author
 
 **Indumathi**  
